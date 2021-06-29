@@ -4,7 +4,7 @@ sudo apt-get install python3-dev
 
 Requirements: 
 
-    CUDA VERSION : 11.2
+    CUDA DRIVER : 11.2
     nvcc --version : 11.2
     cudnn : v8.1.1
     tf: 2.5.0
