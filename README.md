@@ -13,3 +13,6 @@ Get started:
 
     pip3 install -r requirements.txt
     
+TTD1:
+
+    [ ]  use gunicorn expose our REST API
