@@ -16,3 +16,4 @@ Get started:
 TTD1:
 
     [ ]  use gunicorn expose our REST API
+    [ ] REDIS que manager
