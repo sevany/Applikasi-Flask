@@ -14,6 +14,7 @@ Get started:
     pip3 install -r requirements.txt
     
 TTD1:
-
+    
+    [ ] video api
     [ ]  use gunicorn expose our REST API
     [ ] REDIS que manager
