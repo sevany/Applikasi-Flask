@@ -1,4 +1,4 @@
-# Applikasi Sevtech bagi tujuan pembelajaran
+ Aplikasi Sevtech bagi tujuan pembelajaran
 
 
 Get started:
