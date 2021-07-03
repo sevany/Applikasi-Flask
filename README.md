@@ -11,5 +11,6 @@ Get started:
 ![GitHub Logo](web.png)
 
 TTD1 (BILA LAPANG:
- [ ] Simple AI Dummy Platform for ML
+
+    [ ] Simple AI Dummy Platform for ML
 
